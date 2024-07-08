@@ -118,6 +118,7 @@ button:hover {
     padding: 40px;
     margin-top: 45px;
     border-radius: 20px;
+    transition: 0.2s;
 }
 .especialidades-box i {
     color: #D90416;
@@ -132,5 +133,5 @@ button:hover {
 }
 
 .especialidades-box:hover {
-    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.473);
+    box-shadow: 0px 0px 25px rgba(255, 255, 255, 0.473);
 }
